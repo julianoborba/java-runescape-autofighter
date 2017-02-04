@@ -2,4 +2,4 @@
 
 # java-runescape-autofighter
 
-Well, I won't talk about it.
+Well, I won't talk about it. Just don't use it okay :) ?
