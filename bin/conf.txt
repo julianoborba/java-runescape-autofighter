@@ -1,7 +1,0 @@
-D:56,01,17
-A:12000
-C:116,111,106
-
-D = desligamento agendado em mm,hh,DD
-A = atraso em milisegundos
-C = cor em rrr,ggg,bbb
